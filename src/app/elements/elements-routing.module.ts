@@ -4,7 +4,8 @@ import {ElementHomeComponent} from './element-home/element-home.component'
 
 
 const routes: Routes = [
-  {path : 'elements', component :ElementHomeComponent}
+  //path empty route declared in app
+  {path : '', component :ElementHomeComponent}
 ];
 
 @NgModule({

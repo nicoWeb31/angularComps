@@ -1,0 +1,4 @@
+/* si div vide d-none*/
+.div.ui.icon.header:empty{
+  display: none;
+}
