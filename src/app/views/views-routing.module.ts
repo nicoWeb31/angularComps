@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import {ViewsHomeComponentComponent} from './views-home-component/views-home-component.component';
+import { ViewsHomeComponentComponent } from './views-home-component/views-home-component.component';
 
 
 
